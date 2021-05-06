@@ -18,9 +18,9 @@
 
 
 ### 🏆 Trophy
-<p align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Fadhila36&row=2&column=3&layout=compact&theme=onedark)
-</p>
+
 
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhila36" />
