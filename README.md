@@ -13,8 +13,8 @@
 
 ### 📉 Stats
 
-![Muhammad Fadhila Abiyyu Faris Github Statistic](https://github-readme-stats.vercel.app/api?username=Fadhila36&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhila36&theme=vue)
+![Muhammad Fadhila Abiyyu Faris Github Statistic](https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&theme=vue)
 
 
 ### 🏆 Trophy
