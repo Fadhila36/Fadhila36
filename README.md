@@ -1,4 +1,5 @@
-## Hello I'M Muhammad Fadhila Abiyyu Faris <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px"> 
+## Hello I'M Muhammad Fadhila Abiyyu Faris <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" align="center" width="23px"> 
 <img align="center" height="auto" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"/>
 
 <p align="center">
