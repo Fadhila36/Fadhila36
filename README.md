@@ -16,12 +16,6 @@
 ![Muhammad Fadhila Abiyyu Faris Github Statistic](https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&theme=vue)
 
-
-### 🏆 Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=Fadhila36&row=2&column=3&layout=compact&theme=onedark)
-
-
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhila36" />
 </p>
