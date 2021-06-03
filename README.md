@@ -17,14 +17,14 @@
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&theme=vue)
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhila36" />
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 <!--START_SECTION:waka-->
