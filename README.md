@@ -24,6 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
