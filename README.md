@@ -17,7 +17,8 @@
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&theme=vue)
 
 <p align="center">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight)](https://git.io/streak-stats)
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight" />
+  
 </p>
 
 <p align="center">
