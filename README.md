@@ -15,7 +15,7 @@
 
 ### 📉 Stats
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Fadhila36)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Fadhila36&v=2)
 ![Muhammad Fadhila Abiyyu Faris Github Statistic](https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&theme=vue)
 
