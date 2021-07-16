@@ -1,4 +1,5 @@
 ![My card name](https://cardivo.vercel.app/api?name=Muhammad%20Fadhila%20Abiyyu%20Faris&description=Hi,%20i%27m%20a%20Full%20Stack%20Web%20Developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/37483304?v=4&backgroundColor=%23ecf0f1&instagram=Fadhila36&linkedin=M%20Fadhila%20Abiyyu%20Faris&github=Fadhila36&pattern=topography&colorPattern=%23eaeaea)
+
 <div align="center">
 <p>
 📫 Follow Me On
@@ -15,7 +16,9 @@
   <summary>My stats in Github</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&theme=vue">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight" />
+ <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight" />
+</p>
 </details>
 
 <details>
