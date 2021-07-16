@@ -1,6 +1,10 @@
 ![My card name](https://cardivo.vercel.app/api?name=Muhammad%20Fadhila%20Abiyyu%20Faris&description=Hi,%20i%27m%20a%20Full%20Stack%20Web%20Developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/37483304?v=4&backgroundColor=%23ecf0f1&instagram=Fadhila36&linkedin=M%20Fadhila%20Abiyyu%20Faris&github=Fadhila36&pattern=topography&colorPattern=%23eaeaea)
 
 <div align="center">
+  <p>
+  <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=plastic&color=lightgrey" />
+</p>
+  
 <p>
 📫 Follow Me On
 </p>
@@ -27,10 +31,6 @@
        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhila36&v=2&layout=compact">
 </p>
 </details>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=flat-square&color=orange" />
-</p>
 
 
 
