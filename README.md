@@ -24,6 +24,7 @@
 <a href="https://www.instagram.com/fadhila36" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/muhammad-fadhila/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/channel/UC4QFPHRGJuzc9bMsuS_IkOw" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
+<a href="https://trakteer.id/fadhila.36" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 </p>
 </div>
 
