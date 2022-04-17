@@ -41,7 +41,9 @@
 <details>
   <summary>My Wakatime breakdown</summary>
   <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhila36&v=2&layout=compact">
+<!--        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhila36&v=2&layout=compact"> -->
+     <img src=" https://github-readme-stats.vercel.app/api/wakatime?username=fadhila36&layout=compact"> -->
+   
 </p>
 </details>
 
