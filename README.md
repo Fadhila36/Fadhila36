@@ -6,6 +6,9 @@
 </p>
 <br/> 
   
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fadhila36&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fadhila36&redirect=true)
+  
+  
 **Languages and Tools:**
 
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
