@@ -6,9 +6,8 @@
 </p>
 <br/> 
   
-  <p>
+
     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fadhila36&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fadhila36&redirect=true)
-  </p>
 
   <br/> 
 **Languages and Tools:**
