@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-  <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=plastic&color=lightgrey" />
+  [![@fadhila36's Holopin board](https://holopin.me/fadhila36)](https://holopin.io/@fadhila36)
 </p>
 <br/> 
   
