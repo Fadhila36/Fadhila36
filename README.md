@@ -1,8 +1,8 @@
-![Alt Text](https://user-images.githubusercontent.com/69864986/160632746-f60ebe1d-1d4f-4cee-b066-39892799eec8.gif)
+[![@fadhila36's Holopin board](https://holopin.me/fadhila36)](https://holopin.io/@fadhila36)
 
 <div align="center">
   <p>
-  [![@fadhila36's Holopin board](https://holopin.me/fadhila36)](https://holopin.io/@fadhila36)
+ <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=plastic&color=lightgrey" />
 </p>
 <br/> 
   
