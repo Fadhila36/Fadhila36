@@ -44,7 +44,7 @@
   <summary>My Wakatime breakdown</summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fadhila36&layout=compact&theme=vue" />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fadhila36&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
   </p>
 </details>
 
