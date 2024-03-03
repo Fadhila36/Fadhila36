@@ -57,6 +57,7 @@
   </a>
 </div>
 
+
 ###
 
 <br clear="both">
@@ -67,6 +68,11 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=fadhila36&count=10" alt="Spotify recently played"  />
+</div>
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fadhila36&layout=compact&theme=vue" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
 </div>
 
 ###
