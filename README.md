@@ -1,53 +1,72 @@
-![My card name](https://cardivo.vercel.app/api?name=Muhammad%20Fadhila%20Abiyyu%20Faris&description=Hi,%20I'm%20a%20Full%20Stack%20Web%20Developer.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/37483304?v=4&backgroundColor=%23ecf0f1&instagram=Fadhila36&linkedin=M%20Fadhila%20Abiyyu%20Faris&github=Fadhila36&pattern=topography&colorPattern=%23eaeaea)
+<h2 align="left">Hi 👋! My name is Muhammad Fadhila Abiyyu Faris and I'm a Full Stack Web Developer, from Indonesia</h2>
+
+###
 
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=plastic&color=lightgrey" />
-  </p>
-  <br/> 
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fadhila36&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fadhila36&redirect=true)
-  
-  **Languages and Tools:**
-
-  <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-  <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-  <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-  <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-  <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  
-  <br/>
-
-  <p>
-    📫 Follow Me On
-  </p>
-
-  <p>
-    <a href="https://www.instagram.com/fadhila36" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
-    <a href="https://www.linkedin.com/in/muhammad-fadhila/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
-    <a href="https://www.youtube.com/channel/UC4QFPHRGJuzc9bMsuS_IkOw" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
-    <a href="https://trakteer.id/fadhila.36" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadhila36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadhila36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<details>
-  <summary>My stats on Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&theme=vue">
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight&hide_border=true" />
-  </p>
-</details>
+###
 
-<details>
-  <summary>My Wakatime breakdown</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fadhila36&layout=compact&theme=vue" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
-  </p>
-</details>
+<img align="right" height="150" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif"  />
 
-<!--START_SECTION:waka-->
+###
 
-<!--END_SECTION:waka-->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" height="30" alt="adonisjs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://instagram.com/fadhila36" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:fadhilaabiyyu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-fadhila/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/muhammadfadhila.abiyyufaris" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/fadhila__36" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Fadhila36/Fadhila36/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
