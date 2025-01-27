@@ -5,7 +5,7 @@
 ### 💻 **Digital Solutions Architect** 🔮 Transforming Web Ideas into Scalable Reality
 
 📍 **Karawang, Indonesia** | 🌐 Tech Stack: React, Node.js, AWS, Docker  
-⚡ JavaScript Specialist | ☕ Cloud Native Developer | 🎮 Problem Solving Enthusiast
+⚡ Laravel Specialist | ☕ Cloud Native Developer | 🎮 Problem Solving Enthusiast
 
 [![Portfolio Website](https://img.shields.io/badge/🚀_Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2D2D2D)](https://www.fadhilaabiyyu.my.id/ "Muhammad Fadhila's Professional Portfolio")
 
