@@ -1,83 +1,73 @@
-# 👋 Welcome! I'm Muhammad Fadhila Abiyyu Faris
-
-I am a **Full Stack Web Developer** from **Indonesia** with a passion for creating dynamic and responsive web applications. My goal is to leverage my skills in various technologies to deliver innovative solutions that enhance user experiences.
-
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadhila36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadhila36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  
+# 🚀 Muhammad Fadhila Abiyyu Faris
+
+### 💻 **Full Stack Alchemist** 🔮 Transforming Ideas into Digital Reality
+
+📍 **Karawang, Indonesia**  
+⚡ Tech Explorer | ☕ Code Fuel Connoisseur | 🎮 Retro Gaming Enthusiast
+
+[![Portfolio Website](https://img.shields.io/badge/🚀_Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2D2D2D)](https://www.fadhilaabiyyu.my.id/)
+
+</div>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%20👋%22);while(true)+{+code++;+}" alt="Typing Animation">
 </div>
 
 ---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" alt="Anime GIF" />
+## 🚀 Tech Stack
+
+### **Frontend Development**
+<div align="center">
+  <img align="right" height="240" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" alt="Anime GIF">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/-AdonisJS-5A45FF?logo=adonisjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+
+### **Infrastructure & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 📊 Activity Graph
 
-I am proficient in a variety of programming languages and frameworks, including:
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&theme=react-dark&bg_color=1a1b27&hide_border=true&line=7C4DFF&point=FF79C6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="Laravel" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="Go" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" height="30" alt="AdonisJS" />
+## 🌐 Let's Connect
+
+<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+
+[![Instagram](https://img.shields.io/badge/Instagram-@fadhila36-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D2D2D)](https://instagram.com/fadhila36)
+[![Gmail](https://img.shields.io/badge/Gmail-fadhilaabiyyu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2D2D)](mailto:fadhilaabiyyu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Fadhila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2D2D)](https://linkedin.com/in/muhammad-fadhila)
+[![Facebook](https://img.shields.io/badge/Facebook-Muhammad_Fadhila-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2D2D2D)](https://facebook.com/muhammadfadhila.abiyyufaris)
+[![Twitter](https://img.shields.io/badge/Twitter-@fadhila__36-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2D2D2D)](https://twitter.com/fadhila__36)
+
 </div>
 
 ---
 
-## 📫 Connect with Me
-
-I welcome collaboration and networking opportunities. Feel free to reach out to me through the following platforms:
-
-<div align="left">
-  <a href="https://instagram.com/fadhila36" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:fadhilaabiyyu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-fadhila/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/muhammadfadhila.abiyyufaris" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://twitter.com/fadhila__36" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
-  </a>
-</div>
-
----
-
-<br clear="both">
-
-## 🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/Fadhila36/Fadhila36/output/snake.svg" alt="Snake animation" />
-
----
-
-## 🎶 Recently Played on Spotify
+## 🎵 Spotify Vibes
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=fadhila36&count=10" alt="Spotify Recently Played" />
@@ -85,13 +75,15 @@ I welcome collaboration and networking opportunities. Feel free to reach out to 
 
 ---
 
-## 📊 Activity Overview
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fadhila36&layout=compact&theme=vue" alt="WakaTime Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=Fadhila36&style=flat-square&color=7C4DFF" alt="Profile Views">
+  <a href="https://wakatime.com/@fadhila36">
+    <img src="https://wakatime.com/badge/user/ff7d14f0-3b0d-46c6-9a4c-6f4d0a5e5c2a.svg" alt="WakaTime">
+  </a>
 </div>
 
----
+<br clear="both">
 
-Thank you for visiting my profile! I invite you to explore my repositories and connect with me for potential collaborations and discussions.
+## 🐍 Snake Animation
+
+<img src="https://raw.githubusercontent.com/Fadhila36/Fadhila36/output/snake.svg" alt="Snake animation" />
