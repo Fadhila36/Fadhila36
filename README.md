@@ -14,7 +14,7 @@
 <!-- SEO-Friendly Divider -->
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="section-divider">
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%20👋%22);while(true)+{+code++;+}" alt="Full Stack Developer Coding Animation">
 </div>
 
@@ -22,9 +22,7 @@
 
 ## 🛠️ Technical Expertise | Full Stack Development Indonesia
 
-<div align="right" style="float: right; margin-left: 20px;">
-  <img src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" height="240" style="border-radius: 8px; object-fit: contain" alt="Coding Anime">
-</div>
+<img align="right" width="240px" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" alt="Coding Anime"/>
 
 ### **Frontend Development** | React & Flutter Specialist  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -49,7 +47,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-<div style="clear: both;"></div>
+<br clear="both">
 
 ---
 
@@ -87,8 +85,6 @@
     <img src="https://wakatime.com/badge/user/ff7d14f0-3b0d-46c6-9a4c-6f4d0a5e5c2a.svg" alt="Weekly Coding Hours Tracker">
   </a>
 </div>
-
-<br clear="both">
 
 ## 🐍 Development Workflow | Code Contribution Pattern
 
