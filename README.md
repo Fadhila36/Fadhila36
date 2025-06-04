@@ -1,93 +1,80 @@
 <div align="center">
-  
-# 🚀 Muhammad Fadhila Abiyyu Faris | Full Stack Developer & Cloud Engineer
 
-### 💻 **Digital Solutions Architect** 🔮 Transforming Web Ideas into Scalable Reality
-
-📍 **Karawang, Indonesia** | 🌐 Tech Stack: React, Node.js, AWS, Docker  
-⚡ Laravel Specialist | ☕ Cloud Native Developer | 🎮 Problem Solving Enthusiast
-
-[![Portfolio Website](https://img.shields.io/badge/🚀_Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2D2D2D)](https://www.fadhilaabiyyu.my.id/ "Muhammad Fadhila's Professional Portfolio")
-
+# Muhammad Fadhila Abiyyu Faris
+## Full Stack Developer & Cloud Engineer
+📍 Karawang, Indonesia
+<br />
+Keahlian Utama: React, Node.js, Laravel, AWS, Docker
+<br />
+[![Portfolio Website](https://img.shields.io/badge/Portofolio-fadhilaabiyyu.my.id-1e90ff?style=flat-square&logo=vercel&logoColor=white)](https://www.fadhilaabiyyu.my.id/ "Portofolio Profesional Muhammad Fadhila")
 </div>
 
-<!-- SEO-Friendly Divider -->
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="section-divider">
+---
+
+## 🛠️ Keahlian Teknis & Inspirasi
+<img align="right" width="240px" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" alt="Anime Coding GIF - My Inspiration"/>
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 20px;">
+
+<div>
+  <h3 style="margin-bottom: 5px; text-align: center;">Frontend Development</h3>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</div>
+
+<div>
+  <h3 style="margin-bottom: 5px; text-align: center;">Backend Development</h3>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/-AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang">
+</div>
+
+<div>
+  <h3 style="margin-bottom: 5px; text-align: center;">DevOps & Cloud</h3>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="Digital Ocean">
+  <img src="https://img.shields.io/badge/-VPS%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="VPS Ubuntu">
+</div>
+
+<div>
+  <h3 style="margin-bottom: 5px; text-align: center;">Database</h3>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
+
+</div>
+<br clear="both"/> ---
+
+## 📈 Statistik Aktivitas GitHub
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%20👋%22);while(true)+{+code++;+}" alt="Full Stack Developer Coding Animation">
-</div>
 
----
-
-## 🛠️ Technical Expertise | Full Stack Development Indonesia
-
-<img align="right" width="240px" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" alt="Coding Anime"/>
-
-### **Frontend Development** | React & Flutter Specialist  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
-
-### **Backend & Cloud Engineering** | Node.js & Laravel  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-5A45FF?logo=adonisjs&logoColor=white)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-
-### **DevOps & Database Solutions** | Docker & PostgreSQL  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?logo=digitalocean&logoColor=white)
-![VPS Ubuntu](https://img.shields.io/badge/-VPS%20Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-<br clear="both">
-
----
-
-## 📈 GitHub Activity Metrics | Indonesia Developer Profile
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&theme=react-dark&bg_color=1a1b27&hide_border=true&line=7C4DFF&point=FF79C6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🤝 Professional Network | Connect with Full Stack Developer
-
-<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-
-[![Instagram Portfolio](https://img.shields.io/badge/Instagram-@fadhila36-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D2D2D)](https://instagram.com/fadhila36 "Connect on Instagram")
-[![Email Contact](https://img.shields.io/badge/Gmail-fadhilaabiyyu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2D2D)](mailto:fadhilaabiyyu@gmail.com "Send Email")
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Muhammad_Fadhila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2D2D)](https://linkedin.com/in/muhammad-fadhila "View LinkedIn Profile")
-[![Facebook Page](https://img.shields.io/badge/Facebook-Muhammad_Fadhila-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2D2D2D)](https://facebook.com/muhammadfadhila.abiyyufaris "Connect on Facebook")
-[![Twitter Updates](https://img.shields.io/badge/Twitter-@fadhila__36-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2D2D2D)](https://twitter.com/fadhila__36 "Follow on Twitter")
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&bg_color=0D1117&hide_border=true&line=bb9af7&point=7aa2f7&area=true&area_color=bb9af7&title_color=c0caf5&icon_color=bb9af7&text_color=c0caf5&theme=github_dark)](https://github.com/Fadhila36)
+<br />
+<img src="https://komarev.com/ghpvc/?username=Fadhila36&style=flat-square&color=bb9af7" alt="Penghitung Kunjungan Profil GitHub"> <a href="https://wakatime.com/@fadhila36">
+  <img src="https://wakatime.com/badge/user/ff7d14f0-3b0d-46c6-9a4c-6f4d0a5e5c2a.svg?style=flat-square" alt="Pelacak Jam Coding Mingguan WakaTime">
+</a>
+<br /><br />
+<img src="https://raw.githubusercontent.com/Fadhila36/Fadhila36/output/snake.svg" alt="Animasi Ular Kontribusi GitHub" width="80%"/>
 
 </div>
 
 ---
 
-## 🎶 Development Soundtrack | Coding Productivity Music
+## 📫 Mari Terhubung
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=fadhila36&count=10" alt="Spotify Coding Playlist Indonesia" />
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhila "Lihat Profil LinkedIn")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fadhilaabiyyu@gmail.com "Kirim Email")
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fadhila36 "Terhubung di Instagram")
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fadhila36&style=flat-square&color=7C4DFF" alt="GitHub Profile Views Counter">
-  <a href="https://wakatime.com/@fadhila36">
-    <img src="https://wakatime.com/badge/user/ff7d14f0-3b0d-46c6-9a4c-6f4d0a5e5c2a.svg" alt="Weekly Coding Hours Tracker">
-  </a>
-</div>
-
-## 🐍 Development Workflow | Code Contribution Pattern
-
-<img src="https://raw.githubusercontent.com/Fadhila36/Fadhila36/output/snake.svg" alt="GitHub Contribution Snake Animation" />
 
 ---
