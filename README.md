@@ -1,81 +1,128 @@
-<div align="center">
-
-# Muhammad Fadhila Abiyyu Faris
-### Full Stack Developer & Cloud Engineer
-*Karawang, Indonesia*
-
-[![Portfolio Website](https://img.shields.io/badge/Portofolio-fadhilaabiyyu.my.id-1e90ff?style=flat-square&logo=vercel&logoColor=white)](https://www.fadhilaabiyyu.my.id/ "Portofolio Profesional Muhammad Fadhila")
-
-</div>
-
----
-
-## 🛠️ Keahlian & Inspirasi
-
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      <div style="display: flex; flex-direction: column; gap: 15px;">
-        <div>
-          <h3 style="margin-bottom: 5px;">Frontend Development</h3>
-          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-          <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-          <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-          <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-        </div>
-        <div>
-          <h3 style="margin-bottom: 5px;">Backend Development</h3>
-          <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-          <img src="https://img.shields.io/badge/-AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS">
-          <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang">
-        </div>
-        <div>
-          <h3 style="margin-bottom: 5px;">DevOps & Cloud</h3>
-          <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-          <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-          <img src="https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="Digital Ocean">
-          <img src="https://img.shields.io/badge/-VPS%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="VPS Ubuntu">
-        </div>
-        <div>
-          <h3 style="margin-bottom: 5px;">Database</h3>
-          <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-        </div>
-      </div>
-    </td>
-    <td valign="top" width="30%" align="center">
-      <img width="240px" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" alt="Anime Coding GIF - My Inspiration"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Statistik Aktivitas GitHub
+<!-- ✨ Professional GitHub Profile by Muhammad Fadhila Abiyyu Faris -->
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&bg_color=0D1117&hide_border=true&line=bb9af7&point=7aa2f7&area=true&area_color=bb9af7&title_color=c0caf5&icon_color=bb9af7&text_color=c0caf5&theme=github_dark)](https://github.com/Fadhila36)
-<br />
-<img src="https://komarev.com/ghpvc/?username=Fadhila36&style=flat-square&color=bb9af7" alt="Penghitung Kunjungan Profil GitHub">
-<a href="https://wakatime.com/@fadhila36"><img src="https://wakatime.com/badge/user/ff7d14f0-3b0d-46c6-9a4c-6f4d0a5e5c2a.svg?style=flat-square" alt="Pelacak Jam Coding Mingguan WakaTime"></a>
-<br /><br />
-<img src="https://raw.githubusercontent.com/Fadhila36/Fadhila36/output/snake.svg" alt="Animasi Ular Kontribusi GitHub" width="80%"/>
+# 👋 Hi, I'm **Muhammad Fadhila Abiyyu Faris**
+### 🚀 Full Stack Developer & Cloud Engineer
+_“Building scalable, secure, and high-performance web applications with modern cloud infrastructure.”_
+
+📍 Karawang, Indonesia  
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.fadhilaabiyyu.my.id)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhila)
+[![Email](https://img.shields.io/badge/📧%20Email-5865F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhilaabiyyu@gmail.com)
 
 </div>
 
 ---
 
-## 📫 Mari Terhubung
+## 💡 About Me
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+I’m a **Full Stack Web Developer & Cloud Engineer** with **3+ years of experience** building and maintaining  
+production-grade systems using **Laravel, Node.js, React, and Next.js**, supported by **Dockerized microservices**,  
+**CI/CD pipelines**, and **AWS infrastructure**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhila "Lihat Profil LinkedIn")
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fadhilaabiyyu@gmail.com "Kirim Email")
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fadhila36 "Terhubung di Instagram")
+💼 Delivered 10+ full-scale projects with 99.9% uptime and 50% improved performance metrics.  
+☁️ Expert in **DevOps automation**, **cloud scalability**, and **system optimization**.  
+🧩 Passionate about **clean code**, **security-driven development**, and **developer experience (DX)**.
+
+> “Code should be simple. Systems should be stable. Deployment should be seamless.”
+
+---
+
+## 🧠 Core Stack & Skills
+
+### 🖥️ Frontend
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Vite` · `Flutter`
+
+### ⚙️ Backend
+`Laravel` · `Node.js` · `Express` · `AdonisJS` · `PHP` · `Go` · `Python`
+
+### ☁️ DevOps & Cloud
+`AWS (EC2, S3, RDS)` · `Docker` · `GitLab CI/CD` · `Jenkins` · `Argo CD` · `DigitalOcean` · `Cloudflare` · `Ubuntu VPS`
+
+### 🗄️ Databases
+`MySQL` · `PostgreSQL` · `MariaDB` · `Redis` · `MongoDB`
+
+### 🧩 Tools & Workflow
+`Git` · `GitHub` · `GitLab` · `Swagger / Postman` · `Trello` · `VS Code` · `Figma`
+
+### 🎯 Focus Areas
+✅ Scalable API Architecture · ✅ Security & Performance Optimization  
+✅ Cloud Infrastructure · ✅ CI/CD & Containerization · ✅ Full Stack Product Development  
+
+---
+
+## 🌟 Professional Highlights
+
+💡 **3+ Years of Full Stack Experience** in SaaS, CMS, and enterprise solutions.  
+⚡ **Boosted API Performance by 50%** through caching, query optimization, and load balancing.  
+☁️ **Automated Cloud Deployments** on AWS & DigitalOcean using Docker, Jenkins, and GitLab CI/CD.  
+🔒 **Enhanced Security Layers** via validation, rate limiting, and vulnerability patching.  
+🤝 **Collaborated with Global Remote Teams**, ensuring smooth delivery pipelines and code quality.  
+🚀 **Proficient in modern stacks:** Laravel · Next.js · Docker · Tailwind · PostgreSQL · AWS.  
+
+> _"Bridging backend reliability with frontend experience — delivering performance users can feel."_
+
+---
+
+## 🌐 Explore My Work
+
+<div align="center">
+
+✨ Explore my live projects, portfolio showcase, and development blog here 👇  
+[![Visit Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.fadhilaabiyyu.my.id)
 
 </div>
+
+---
+
+## 📈 GitHub Insights
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fadhila36&theme=tokyonight&hide_border=true)](https://github.com/Fadhila36)  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&bg_color=0D1117&hide_border=true&line=5865F2&point=7aa2f7&area=true&area_color=5865F2&title_color=c0caf5&text_color=c0caf5)](https://github.com/Fadhila36)  
+
+<img src="https://komarev.com/ghpvc/?username=Fadhila36&style=for-the-badge&color=5865F2" alt="Profile Views">
+<a href="https://wakatime.com/@910bb2c9-b1ad-40f2-adfd-5cc50c097915">
+  <img src="https://wakatime.com/badge/user/910bb2c9-b1ad-40f2-adfd-5cc50c097915.svg?style=for-the-badge&color=5865F2" alt="WakaTime Coding Stats">
+</a>  
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Fadhila36)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Fadhila36)
+
+</div>
+
+---
+
+## 🎨 Coding Inspiration
+
+<div align="center">
+  <img width="240px" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" alt="Coding Inspiration">
+  <br><br>
+  <i>“Great code is born from focus, discipline, and a touch of creativity.”</i>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I’m always open to new challenges, collaborations, or freelance projects.  
+If you’re looking for a **dedicated backend or full-stack developer**, let’s build something extraordinary.  
+
+[![Hire Me](https://img.shields.io/badge/💼%20Hire%20Me%20on%20LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhila)
+[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-5865F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhilaabiyyu@gmail.com)
+[![Visit Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.fadhilaabiyyu.my.id)
+
+</div>
+
+---
+
+<p align="center">
+  <i>✨ “Clean code is not just syntax — it’s structure, clarity, and purpose.” ✨</i>
+</p>
