@@ -1,5 +1,3 @@
-<!-- ✨ Professional GitHub Profile by Muhammad Fadhila Abiyyu Faris -->
-
 <div align="center">
 
 # 👋 Hi, I'm **Muhammad Fadhila Abiyyu Faris**
@@ -126,3 +124,4 @@ If you’re looking for a **dedicated backend or full-stack developer**, let’s
 <p align="center">
   <i>✨ “Clean code is not just syntax — it’s structure, clarity, and purpose.” ✨</i>
 </p>
+
