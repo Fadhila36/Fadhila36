@@ -83,14 +83,15 @@ production-grade systems using **Laravel, Node.js, React, and Next.js**, support
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadhila36&bg_color=0D1117&hide_border=true&line=5865F2&point=7aa2f7&area=true&area_color=5865F2&title_color=c0caf5&text_color=c0caf5)](https://github.com/Fadhila36)  
 
 <img src="https://komarev.com/ghpvc/?username=Fadhila36&style=for-the-badge&color=5865F2" alt="Profile Views">
+
 <a href="https://wakatime.com/@910bb2c9-b1ad-40f2-adfd-5cc50c097915">
   <img src="https://wakatime.com/badge/user/910bb2c9-b1ad-40f2-adfd-5cc50c097915.svg?style=for-the-badge&color=5865F2" alt="WakaTime Coding Stats">
 </a>  
 
 <br>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/Fadhila36)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Fadhila36)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Fadhila36)
 
 </div>
 
@@ -124,4 +125,3 @@ If you’re looking for a **dedicated backend or full-stack developer**, let’s
 <p align="center">
   <i>✨ “Clean code is not just syntax — it’s structure, clarity, and purpose.” ✨</i>
 </p>
-
