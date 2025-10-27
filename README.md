@@ -43,7 +43,7 @@ production-grade systems using **Laravel, Node.js, React, and Next.js**, support
 `MySQL` · `PostgreSQL` · `MariaDB` · `Redis` · `MongoDB`
 
 ### 🧩 Tools & Workflow
-`Git` · `GitHub` · `GitLab` · `Swagger / Postman` · `Trello` · `VS Code` · `Figma`
+`Git` · `GitHub` · `GitLab` · `Swagger / Postman` · `Trello` · `VS Code`
 
 ### 🎯 Focus Areas
 ✅ Scalable API Architecture · ✅ Security & Performance Optimization  
@@ -125,3 +125,4 @@ If you’re looking for a **dedicated backend or full-stack developer**, let’s
 <p align="center">
   <i>✨ “Clean code is not just syntax — it’s structure, clarity, and purpose.” ✨</i>
 </p>
+
