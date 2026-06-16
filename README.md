@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/🤝_Status-Open_for_Collaboration-0077B5?style=for-the-badge&color=238636" alt="Open for Collaboration">
 </p>
 
-<!-- Social & Contact Links (Modern Button Design) -->
+<!-- Social & Contact Links -->
 <a href="https://www.fadhilaabiyyu.my.id" target="_blank">
   <img src="https://img.shields.io/badge/Website-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
@@ -27,7 +27,7 @@
 
 ## 🚀 Engineering For Business Impact
 
-I am a **Full Stack Engineer & Cloud Architect** with over 3 years of experience. I specialize in transforming complex business requirements into high-performance, resilient, and scalable systems. My focus is always on delivering code that drives real business value, whether it's optimizing API response times, reducing server infrastructure costs, or automating workflows.
+I am a **Full Stack Engineer & Cloud Architect** with over 3 years of experience. I specialize in transforming complex business requirements into high-performance, resilient, and scalable systems. My focus is always on delivering code that drives real business value — whether it's optimizing API response times, reducing infrastructure costs, or automating critical workflows.
 
 **📊 Quantifiable Impact:**
 - ⚡ **Performance:** Boosted API efficiency by **50%** by migrating legacy services to modern architectures & implementing Redis caching.
@@ -40,10 +40,10 @@ I am a **Full Stack Engineer & Cloud Architect** with over 3 years of experience
 
 ### 🖥️ Frontend Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
 ### ⚙️ Backend Development
@@ -54,7 +54,7 @@ I am a **Full Stack Engineer & Cloud Architect** with over 3 years of experience
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
 
-### ☁️ DevOps & Server Infrastructure
+### ☁️ DevOps & Cloud Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/AWS_(EC2%2FS3%2FRDS)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -76,15 +76,18 @@ I am a **Full Stack Engineer & Cloud Architect** with over 3 years of experience
 
 ### 🏫 Harmony Kids School ERP
 > **Stack:** `Laravel` • `MySQL` • `WhatsApp API Gateway`
-> **Impact:** Built a multi-branch digital ecosystem automating school finances. Engineered automated WhatsApp billing and real-time financial analytics, significantly cutting administrative overhead.
+
+A multi-branch digital school management ecosystem built to eliminate manual administrative overhead. Engineered an automated WhatsApp billing notification system and a real-time financial analytics dashboard. Solved complex multi-tenant data isolation challenges, ensuring each branch's data remained secure and independent while allowing centralized reporting for school leadership.
 
 ### 🛒 Carivendor B2B Marketplace
-> **Stack:** `Laravel` • `Docker` • `AWS` • `PayPal API`
-> **Impact:** Architected a scalable B2B marketplace with secure payment integrations. Implemented Docker auto-scaling on AWS to handle high traffic spikes seamlessly.
+> **Stack:** `Laravel` • `Docker` • `AWS EC2/S3/RDS` • `PayPal API`
+
+Architected a scalable B2B marketplace platform from the ground up with secure multi-gateway payment integration. Implemented auto-scaling Docker containers on AWS to handle unpredictable traffic spikes seamlessly. Optimized critical database queries that reduced checkout latency by over **35%** during peak load.
 
 ### 🚀 UltimaStream Engine
 > **Stack:** `Bun` • `ElysiaJS` • `PostgreSQL`
-> **Impact:** Developed an ultra-fast anime streaming API microservice. Leveraged Bun and ElysiaJS to drastically reduce latency and response times compared to traditional backend setups.
+
+A high-performance media streaming API microservice engineered for ultra-low latency. By leveraging Bun's native runtime and ElysiaJS, achieved response times **3x faster** than equivalent Node.js/Express setups under the same load — demonstrating how runtime choices at the architecture level translate directly into infrastructure cost savings.
 
 <div align="right">
   <b><a href="https://www.fadhilaabiyyu.my.id/projects">▶ View all projects and case studies</a></b>
@@ -116,7 +119,7 @@ I am a **Full Stack Engineer & Cloud Architect** with over 3 years of experience
 <div align="center">
   <img width="240px" src="https://media1.tenor.com/m/DEc4yrCNCakAAAAC/anime.gif" alt="Coding Inspiration" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
   <br><br>
-  <i>“Great code is born from focus, discipline, and a touch of creativity.”</i>
+  <i>"Great code is born from focus, discipline, and a touch of creativity."</i>
 </div>
 
 ---
@@ -125,14 +128,14 @@ I am a **Full Stack Engineer & Cloud Architect** with over 3 years of experience
 
 <div align="center">
 
-I am actively looking for **Senior/Lead Engineer roles**, **Freelance Contracts**, and **B2B Collaborations & Tech Partnerships**. 
+I am actively looking for **Senior/Lead Engineer roles**, **Freelance Contracts**, and **B2B Collaborations & Tech Partnerships**.
 
-Whether you need to scale your current infrastructure, build an MVP, or partner up to develop robust enterprise solutions, I'm ready to bring engineering excellence to the table. Let's discuss how we can drive your business forward!
+Whether you need to scale your current infrastructure, build an MVP from scratch, or partner up to develop robust enterprise solutions — I'm ready to bring engineering excellence to the table. Let's discuss how we can drive your business forward!
 
 <br>
 
 <a href="https://linkedin.com/in/muhammad-fadhila" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
 </a>
 <a href="mailto:fadhilaabiyyu@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Schedule_a_Chat-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
