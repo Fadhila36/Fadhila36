@@ -85,7 +85,7 @@ Built an ultra-low latency media delivery API microservice using Bun and ElysiaJ
 <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=CCFF00" alt="TypeScript">
 <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=CCFF00" alt="Tailwind CSS">
 
-<br><br>
+<br>
 
 **Backend & Systems**
 <br>
@@ -94,7 +94,7 @@ Built an ultra-low latency media delivery API microservice using Bun and ElysiaJ
 <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=CCFF00" alt="Node.js">
 <img src="https://img.shields.io/badge/Golang-0A0A0A?style=for-the-badge&logo=go&logoColor=CCFF00" alt="Go">
 
-<br><br>
+<br>
 
 **Cloud & DevOps**
 <br>
@@ -104,7 +104,7 @@ Built an ultra-low latency media delivery API microservice using Bun and ElysiaJ
 <img src="https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=CCFF00" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Cloudflare-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=CCFF00" alt="Cloudflare">
 
-<br><br>
+<br>
 
 **Databases & Storage**
 <br>
@@ -116,22 +116,10 @@ Built an ultra-low latency media delivery API microservice using Bun and ElysiaJ
 
 ---
 
-### // 3D Contribution & Activity Analytics
+### // Activity & Contribution Stream
 
 <div align="center">
 
-**3D Isometric Contribution Calendar**
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-  <img alt="3D Contribution Graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="95%">
-</picture>
-
-<br><br>
-
-**Contribution Stream**
-<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fadhila36/Fadhila36/output/snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fadhila36/Fadhila36/output/snake.svg">
@@ -140,8 +128,6 @@ Built an ultra-low latency media delivery API microservice using Bun and ElysiaJ
 
 <br><br>
 
-**Engineering Activity & Streak**
-<br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhila36&theme=dark&background=0A0A0A&ring=CCFF00&fire=CCFF00&currStreakNum=CCFF00&sideNums=E0E0E0&currStreakLabel=CCFF00&sideLabels=A0A0A0&dates=707070&hide_border=true" alt="GitHub Streak" width="85%" />
 
 <br><br>
