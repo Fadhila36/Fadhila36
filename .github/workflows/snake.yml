@@ -1,14 +1,18 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # Sekali sehari pukul 18:00 UTC (01:00 WIB dini hari)
+    - cron: "0 18 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - master
+      - main
+    paths-ignore:
+      - 'README.md'
+      - 'profile-3d-contrib/**'
 
 jobs:
   generate:
@@ -24,9 +28,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-
       - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
