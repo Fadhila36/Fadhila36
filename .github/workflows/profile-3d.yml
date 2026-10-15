@@ -33,8 +33,8 @@ jobs:
 
       - name: Commit & push 3D graph
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "fadhila36"
+          git config user.email "yuffa36@gmail.com"
           git add -A .
           if git commit -m "chore(contrib): update 3d contribution calendar"; then
             git push
